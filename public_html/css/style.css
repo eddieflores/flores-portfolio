@@ -1,0 +1,11 @@
+body {
+    background-color:burlywood;
+}
+
+nav a {
+    color: red;
+}
+
+#current-link {
+    text-decoration: none;
+}
