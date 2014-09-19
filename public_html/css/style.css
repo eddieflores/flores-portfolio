@@ -57,7 +57,7 @@ h1 {
     }
     img{
         left-colunm{
-            width:320px;
+            width:320px; alignment-adjust: 320
         }
         
     }
