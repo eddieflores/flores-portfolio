@@ -25,3 +25,15 @@ h1 {
     border-width: 5px;
     border-color:red;
 }
+
+@media screen and (max-width:959px) {
+    #container{
+        width.100%;
+    }
+    #left-colunm{
+        width.70%;
+    }
+    #right-coulnm{
+        width.30%;
+    }
+}
