@@ -36,4 +36,24 @@ h1 {
     #right-coulnm{
         width.30%;
     }
+    img{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:640px){
+      #left-colunm{
+        width.100%;
+    }
+    #right-coulnm{
+        width.100%;
+    }
+    
+}
+
+@media screen and (max-width:320px){
+    #container{
+        width:320px;
+    }
+    
 }
