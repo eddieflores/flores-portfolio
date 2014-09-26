@@ -26,15 +26,19 @@ h1 {
     border-color:red;
 }
 
+iframe{
+    width:100%;
+}
+
 @media screen and (max-width:959px) {
     #container{
-        width.100%;
+        width: 100%;
     }
     #left-colunm{
-        width.70%;
+        width: 70%;
     }
     #right-coulnm{
-        width.30%;
+        width: 30%;
     }
     img{
         width:100%;
@@ -43,10 +47,10 @@ h1 {
 
 @media screen and (max-width:640px){
       #left-colunm{
-        width.100%;
+        width: 100%;
     }
     #right-coulnm{
-        width.100%;
+        width: 100%;
     }
     
 }
@@ -66,7 +70,7 @@ html {
         
 @media (max-width: 320px) {
     iframe{
-        width=100%;
+        width: 100%;
     }
 }
     
